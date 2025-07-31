@@ -1,0 +1,19 @@
+{
+    "clim_var_names": [
+        "temp_min",
+        "temp_med",
+        "temp_max",
+        "precip_min",
+        "precip_med",
+        "precip_max",
+        "pressure_min",
+        "pressure_med",
+        "pressure_max",
+        "rel_humid_min",
+        "rel_humid_med",
+        "rel_humid_max"
+    ],
+    "global_scale": false,
+    "retrain_per_fold": true,
+    "approach": "forecast_gap"
+}
