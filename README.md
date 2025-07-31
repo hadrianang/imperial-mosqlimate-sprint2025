@@ -3,7 +3,7 @@
 
 ### Members
 * [Hadrian Jules Ang](https://profiles.imperial.ac.uk/h.ang21) - School of Public Health, Imperial College London
-* [Gary Konstantinoudis](https://profiles.imperial.ac.uk/g.konstantinoudis) - The Grantham Institute for Climate Change, Imperial College London
+* [Garyfallos Konstantinoudis](https://profiles.imperial.ac.uk/g.konstantinoudis) - The Grantham Institute for Climate Change, Imperial College London
 * [Anna Vicco](https://profiles.imperial.ac.uk/a.vicco21) - School of Public Health, Imperial College London
 * [Clare McCormack](https://profiles.imperial.ac.uk/c.mccormack14) - School of Public Health, Imperial College London
 * [Ilaria Dorigatti](https://profiles.imperial.ac.uk/i.dorigatti) - School of Public Health, Imperial College London
